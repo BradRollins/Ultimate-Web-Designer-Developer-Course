@@ -68,8 +68,6 @@ $('#go').click(function () {
     });
 
 });    
-});
-
 
 
 // Click the Reset button
